@@ -47,7 +47,7 @@ body {
     display: inline-block;
     vertical-align: middle;
     width: 49%;
-    height: 370px;
+    margin: 0 auto;
 }
 
 .ingredients-table {
@@ -63,7 +63,7 @@ body {
     display: inline-block;
     vertical-align: middle;
     width: 49%;
-    height: 370px;
+    margin: 0 auto;
 }
 
 .instructions-ol {
@@ -81,6 +81,7 @@ body {
     font-size: 120%;
     text-align: center;
     color: rgb(161, 65, 65);
+    margin: 0 auto;
 }
 
 .sub-heading {
